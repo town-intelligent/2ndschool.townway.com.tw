@@ -353,7 +353,7 @@ const str_navbar = `    <nav class="navbar navbar-expand-xl navbar-light bg-navb
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
       <li id="index" class="nav-item">
-        <a id="about_nav" class="nav-link fw-bold" href="/index.html">關於 Second Home </a>
+        <a id="about_nav" class="nav-link fw-bold" href="/index.html">關於 Second School </a>
       </li>
       <li id="kpi" class="nav-item">
         <a class="nav-link fw-bold" href="/kpi.html">永續專案</a>
@@ -380,7 +380,7 @@ const str_footer = `    <footer class="bg-footer">
   <div class="row justify-content-center pt-4">
     <div class="col-lg-9 d-none d-lg-block">
       <div class="h-100 d-flex align-items-center justify-content-center justify-content-lg-start mt-2 mt-lg-0 fz-18">
-        <p class="mr-3 mb-0"><a id="about_fot1" href="/index.html" class="text-dark nav-link px-0 fw-bold">關於 Second Home</a></p>
+        <p class="mr-3 mb-0"><a id="about_fot1" href="/index.html" class="text-dark nav-link px-0 fw-bold">關於 Second School</a></p>
         <p class="mr-3 mb-0"><a href="/kpi.html" class="text-dark nav-link px-0 fw-bold">永續專案</a></p>
         <p id="solution_fot1" style="display:none" class="mr-3 mb-0"><a href="/solution.html" class="text-dark nav-link px-0 fw-bold">解決方案</a></p>
         <p class="mr-3 mb-0"><a href="/news_list.html" class="text-dark nav-link px-0 fw-bold">最新消息</a></p>
@@ -411,7 +411,7 @@ const str_footer = `    <footer class="bg-footer">
     </div>
     <!-- mobile -->
     <div class="d-flex flex-wrap justify-content-center d-lg-none fz-18">
-      <p class="mr-3 mb-0"><a id="about_fot2" class="text-dark nav-link px-0 fw-bold" href="/index.html">關於 Second Home</a></p>
+      <p class="mr-3 mb-0"><a id="about_fot2" class="text-dark nav-link px-0 fw-bold" href="/index.html">關於 Second School</a></p>
       <p class="mr-3 mb-0"><a class="text-dark nav-link px-0 fw-bold" href="/kpi.html">永續專案</a></p>
       <p id="solution_fot2" style="display:none" class="mr-3 mb-0"><a class="text-dark nav-link px-0 fw-bold" href="/solution.html">解決方案</a></p>
       <p class="mr-3 mb-0"><a class="text-dark nav-link px-0 fw-bold" href="/news_list.html">最新消息</a></p>
@@ -421,7 +421,7 @@ const str_footer = `    <footer class="bg-footer">
   </div>
   <div class="py-4">
     <div class="text-center">
-      <p id="copyright" class="fw-bold mb-0">Copyright © 2023 SECOND HOME</p>
+      <p id="copyright" class="fw-bold mb-0">Copyright © 2024 SECOND SCHOOL</p>
     </div>
   </div>
 </div>
