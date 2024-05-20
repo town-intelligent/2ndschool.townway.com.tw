@@ -204,6 +204,7 @@ export function append_plan_submit_data(page, form) {
         }
       }
       */
+      var list_location = [0, 0, 0, 0, 0];
       if (document.getElementById("location_4").checked.toString() == "true") {
           list_location[3] = 1;
       }
