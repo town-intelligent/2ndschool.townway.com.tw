@@ -196,12 +196,19 @@ export function append_plan_submit_data(page, form) {
       form.append("hoster_email", document.getElementById("email").value);
       form.append("org", document.getElementById("org").value);
       form.append("tel", document.getElementById("tel").value);
+      /*
       var list_location = [0, 0, 0, 0, 0];
       for(var index = 1; index <= 5; index++) {
         if (document.getElementById("location_" + index.toString()).checked.toString() == "true") {
           list_location[index - 1] = 1;
         }
       }
+      */
+      if (document.getElementById("location_4").checked.toString() == "true") {
+          list_location[3] = 1;
+      }
+      
+	  
       form.append("list_location", list_location);
     }
 
